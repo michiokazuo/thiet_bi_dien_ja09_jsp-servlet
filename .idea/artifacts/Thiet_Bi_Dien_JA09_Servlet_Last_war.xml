@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Thiet_Bi_Dien_JA09_Servlet_Last:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Thiet_Bi_Dien_JA09_Servlet_Last</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Thiet_Bi_Dien_JA09_Servlet_Last.war">
+      <element id="artifact" artifact-name="Thiet_Bi_Dien_JA09_Servlet_Last:war exploded" />
+    </root>
+  </artifact>
+</component>

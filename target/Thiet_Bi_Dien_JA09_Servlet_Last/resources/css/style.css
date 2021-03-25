@@ -1,0 +1,24 @@
+a{
+    text-decoration: none!important;
+}
+
+.nav-item.active a{
+    color: #ffc700!important;
+}
+
+.tool-page .container .row div{
+    padding-bottom: 10px;
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+    background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb{
+    background: #9d9d9d;
+}
+
+.table-data table td, .table-data table th{
+    text-align: center;
+    vertical-align: middle;
+}
